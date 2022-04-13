@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DirtyKidd
-- 👀 I’m interested in.. Learning
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in.. Learning new things
+- 🌱 I’m currently learning.. one thing at a time
+- 💞️ I’m looking to collaborate on ...web developer
 - 📫 How to reach me ...tracielambert63@gmail com
                          
 <!---
